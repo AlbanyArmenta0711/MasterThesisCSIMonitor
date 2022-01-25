@@ -1,0 +1,1 @@
+obj.connection = tcpserver("localhost", 80)
